@@ -1,0 +1,5 @@
+# Tested with Python 3.13, NumPy 2.5.3, Matplotlib 3.11.2
+numpy>=1.26
+matplotlib>=3.8
+# Optional, only for notebooks/figures.ipynb
+# jupyter
